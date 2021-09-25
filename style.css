@@ -1,0 +1,49 @@
+a{
+    color: aliceblue;
+   
+}
+
+.nav{
+    height: 40px;
+    font-size: 14px;
+    text-decoration: none !important;
+}
+
+.div2{
+    height: 50px; !important;
+
+}
+
+
+.anav{
+    color: white !important;
+
+}
+
+a{
+    color: rgb(5, 83, 161) !important;
+}
+
+.logo1{
+    border-radius: 30px;
+}
+
+.para{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+ul{
+    font-size: 20px;
+    font-weight: 300px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+     background-image: linear-gradient(132deg, #F4D03F 0%, #16A085 100%);
+    color: white;
+    text-align: center;
+ }
